@@ -1,3 +1,6 @@
+# Due to the fact that the current msgpack-idl executable doesn't generate valid java code this plugin is pretty useless.
+I probably should have checked that out before I wrote it. Ha.
+
 MessagePack plugin for sbt 0.11+
 ====================================
 
