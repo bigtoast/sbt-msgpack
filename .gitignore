@@ -2,3 +2,6 @@ target
 bin
 *.class
 *~
+.cache
+.project
+.classpath
